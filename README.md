@@ -16,3 +16,8 @@ within the application.
 
 ## Run the application
 `npm run start` or `yarn start`
+
+
+# Lesson 2
+- [Lesson](./PROBLEM.md) 
+- [Solution](https://github.com/azaharakis/app-with-server-rendering/compare/b0615e5...1d3e542)
